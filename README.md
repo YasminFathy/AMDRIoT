@@ -11,4 +11,6 @@ The baseline approach is "dual_prediction.m" that includes implementation of the
 conference on networked sensing systems (INSS 2006) (pp. 29-36)." 
 
 The first line of both files has "load data" requires "data.m" file. "data.m" has a large size and can't be uploaded here, so please download it from this link:
+https://www.dropbox.com/s/2vvpyx1r6spl9fn/data.mat?dl=0
+
 
