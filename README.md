@@ -1,4 +1,4 @@
-# AM_DR_IoT
+# AMDRIoT
 
 This is an implementaion "An Adaptive Method for Data Reduction in the Internet of Things"
 
